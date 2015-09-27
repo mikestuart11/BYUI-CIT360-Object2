@@ -1,3 +1,5 @@
+package JunitSandboxing;
+
 /*
 * This class prints the given message on console.
 */
